@@ -1,5 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on Perception algorithms for autonomous vehicles and robots using LiDAR and RADAR sensors.<br>👯 I’m looking to collaborate on Sensor Fusion, Generative AI, Vision Language Models, LLMs, Perception and Control of autonomous vehicles and robots.<br>🌱 I’m currently learning 3D Computer Vision using LiDAR and Radar sensors.
+🔭 I’m currently working on a lot of things as the world of AI is evolving extremely fast. I have been experimenting recently with:
+1. MCP servers
+2. Graph Neural Networks and using them for interesting things.
+3. Generative AI networks
+4. 3D Computer Vision
+<br>👯 I’m looking to collaborate on Sensor Fusion, Generative AI, Vision Language Models, LLMs, Perception and Control of autonomous vehicles and robots.<br>🌱 I’m currently learning 3D Computer Vision using LiDAR and Radar sensors.
 <br> I work with MATLAB, Simulink, Python and C++  <br>💬 Ask me about AI, ML, Sensor fusion, Computer Vision<br>⚡ Fun fact: All branches of Engineering are just fancy maths.
 
 
